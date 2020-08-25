@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="Popular2" type="id">Popular</item>
+    <item name="coming_soon2" type="id">Coming_soon</item>
+    <item name="now_showing2" type="id">Now_showing</item>
+    <item name="v_flipper" type="id">V flipper</item>
+</resources>
